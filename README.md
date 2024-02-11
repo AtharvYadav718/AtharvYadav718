@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atharv Yadav</h1>
+<h1 align="center">Hi Everyone 👋, I'm Atharv Yadav</h1>
 <h3 align="center">"Passionate Coder in the Making | MCS Pursuer"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvyadav718&label=Profile%20views&color=0e75b6&style=flat" alt="atharvyadav718" /> </p>
