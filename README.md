@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AtharvYadav718](https://github.com/AtharvYadav718)
 
-- 💬 Ask me about **.net Framework**
+- 💬 Ask me about **C/C++/Java/C#**
 
 - 📫 How to reach me **atharvyadav135@gmail.com**
 
