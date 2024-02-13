@@ -1,4 +1,5 @@
 <h1 align="center">Hello Everyone 👋, I'm Atharv Yadav</h1>
+<div align="center"> <img src="https://github.com/AtharvYadav718/AtharvYadav718/blob/master/Profile%20Banner.png"> </div>
 <h3 align="center">"Passionate Coder in the Making | MCS Pursuer"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvyadav718&label=Profile%20views&color=0e75b6&style=flat" alt="atharvyadav718" /> </p>
